@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8BA20764-C3B6-A62E-6052-0EC80DED7236}") = "The Creative Spherical Collect-a-Thon Platformer", "Assembly-CSharp.csproj", "{66C9A650-5D9C-3BEC-69A9-BA4C5658A94A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66C9A650-5D9C-3BEC-69A9-BA4C5658A94A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66C9A650-5D9C-3BEC-69A9-BA4C5658A94A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66C9A650-5D9C-3BEC-69A9-BA4C5658A94A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66C9A650-5D9C-3BEC-69A9-BA4C5658A94A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
